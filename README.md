@@ -1,6 +1,7 @@
 ### Date created
 Include the date you created this project and README file.
-The project file was created on 9/24/2019. The file in this directory is original template
+The project file was created on 9/24/2019. The file in this directory is original template. 
+The final file was submitted on Friday, 9/27
 
 ### Project Title
 Replace the Project Title
